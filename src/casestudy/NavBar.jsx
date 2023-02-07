@@ -18,7 +18,7 @@ const pages = [
   { name: "Home", path: "/home" },
   { name: "Table", path: "/table" },
 ];
-const settings = ["Profile", "Account", "Dashboard"];
+const settings = [];
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
