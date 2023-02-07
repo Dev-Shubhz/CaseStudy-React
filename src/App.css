@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background: url("https://images.collegedunia.com/public/image/7ff742f8c0ceab9b3d952bf42fc3ce66.png?tr=w-800,h-400,c-force");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+}
